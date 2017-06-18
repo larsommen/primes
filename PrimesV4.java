@@ -1,5 +1,3 @@
-import java.util.concurrent.*;
-
 class PrimesV4 implements Runnable
 
 {
@@ -71,10 +69,8 @@ class PrimesV4 implements Runnable
 
 	public synchronized void incNumberOfPrimes()
 	{
-		synchronized(this)
-		{	
-			totalPrimes++;
-		}
+		
+			totalPrimes++;	
 	}
 
 	public static void main(String[] args) 
