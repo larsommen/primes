@@ -26,6 +26,7 @@ class PrimesV2
 
 	public static void main(String[] args) 
 	{
+		System.out.println("This algorithm breaks if a number is not a prime:");
 		final long startTime = System.currentTimeMillis();
 		primes();
 		final long endTime = System.currentTimeMillis();
