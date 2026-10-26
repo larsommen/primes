@@ -9,4 +9,4 @@ Five java files in project:<br><br>
 +5 PrimesV5.java is the Sieve of Eratosthenes — instead of testing each number, it crosses out the multiples of every prime it finds. A fundamentally better algorithm: it finds the same 9592 primes in a fraction of the time, on the same machine.<br><br>
 <b>You don't need a faster computer — you need a better algorithm.</b><br><br>
 ---
-$Live demo (run all five in your browser) at <a href="https://ommen.it/algorithms/" target="_blank">https://ommen.it/algorithms/</a>
+## Live demo (run all five in your browser) at <a href="https://ommen.it/algorithms/" target="_blank">https://ommen.it/algorithms/</a>
